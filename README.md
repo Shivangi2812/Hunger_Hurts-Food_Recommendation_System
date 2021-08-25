@@ -1,4 +1,4 @@
-# Personalized-recipe-recommendation-System
+# Hunger Hurts: Food Recommendation System
 
 In our hectic daily lives, we frequently forget to buy groceries. It is not uncommon for us to
 decide to make a recipe only to discover that we lack all of the necessary ingredients, forcing us
